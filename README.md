@@ -44,13 +44,15 @@ Public Lending Club loan dataset containing borrower financial attributes, credi
 ## Sample Outputs
 
 ### Default Rate by Credit Policy
-![Default Rate by Credit Policy](outputs/default_rate_by_policy.png)
+![Default Rate by Credit Policy](/outputs
+/DEFAULT ANALYSIS BY CREDIT POLICY.png
+)
 
 ### Default Rate by DTI Bucket
-![Default Rate by DTI Bucket](outputs/default_rate_by_dti.png)
+![Default Rate by DTI Bucket](outputs/DEFAULT RATE BY DTI.png)
 
 ### Logistic Regression Results
-![Logistic Regression Output](outputs/logistics_regression_output.png)
+![Logistic Regression Output](outputs/LOGISTICS REGRESSION OUTPUT.png)
 
 
 ## Author
