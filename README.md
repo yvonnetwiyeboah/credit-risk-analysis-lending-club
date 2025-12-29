@@ -41,6 +41,18 @@ Public Lending Club loan dataset containing borrower financial attributes, credi
 - Apply risk-based pricing strategies for lower credit profiles
 - Implement early monitoring for borrowers exhibiting high-risk indicators
 
+## Sample Outputs
+
+### Default Rate by Credit Policy
+![Default Rate by Credit Policy](outputs/default_rate_by_policy.png)
+
+### Default Rate by DTI Bucket
+![Default Rate by DTI Bucket](outputs/default_rate_by_dti.png)
+
+### Logistic Regression Results
+![Logistic Regression Output](outputs/logistics_regression_output.png)
+
+
 ## Author
 **Yvonne Twi-Yeboah**  
 MSc Business Analytics & Information Management  
